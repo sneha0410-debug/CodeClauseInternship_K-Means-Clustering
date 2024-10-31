@@ -1,1 +1,1 @@
-# -CodeClauseInternship_K-Means-clustering
+# -CodeClauseInternship_Projects
